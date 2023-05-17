@@ -1,6 +1,4 @@
-# True-fake-news
-True Fake News Detector Usin NLP
-Certainly! Here's an example of a README file for the "True-fake-news" repository:
+
 
 # True-fake-news
 
